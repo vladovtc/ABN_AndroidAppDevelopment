@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidAppDevelopment</string>
+    <string name="android_app_development">Android App Development</string>
+    <string name="image_of_business">Image of Business</string>
+    <string name="e_mail_vlado_vtc_gmail_com">E-mail: vlado.vtc@gmail.com</string>
+    <string name="www_androidappdevelopment_com">www.androidappdevelopment.com</string>
+    <string name="work_hours_monday_friday_8h_17h">Work hours: Monday - Friday 8h-17h</string>
+    <string name="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+</resources>
